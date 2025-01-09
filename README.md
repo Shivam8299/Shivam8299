@@ -1,7 +1,5 @@
 # Hi there 👋, I'm Shivam Mishra!
 
-![My Resume](https://drive.google.com/file/d/1wcnWEuaRUs0wVYWGKObd-uhtdWLxYQ_G/view?usp=drive_link)
-
 I am a highly motivated Software Programmering and a student at [Navgurukul](https://navgurukul.org/). My expertise spans across various programming languages and frameworks, including C, HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, and MySQL.
 
 ## 🚀 About Me
