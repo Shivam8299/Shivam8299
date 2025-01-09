@@ -6,7 +6,7 @@ I am a highly motivated Software Programmering and a student at [Navgurukul](htt
 
 ## 🚀 About Me
 
-- 🌱 I'm continuously honing my skills and participating in [Codechef](https://www.codechef.com/) contests to refine my problem-solving abilities.
+- 🌱 I'm continuously honing my skills and participating in [Codechef](https://www.codechef.com/users/shivam_mishra2) contests to refine my problem-solving abilities.
 - 💼 I am actively seeking opportunities to contribute my skills to a progressive and growth-oriented company.
 - 🛠️ I am adept at leadership and time management and strive to bring these qualities to every project I undertake.
 
