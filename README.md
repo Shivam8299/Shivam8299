@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Shivam Mishra!
 
-![Profile Cover](https://www.example.com/cover-image.jpg) <!-- You can add a link to your cover image -->
+![My Resume](https://drive.google.com/file/d/1wcnWEuaRUs0wVYWGKObd-uhtdWLxYQ_G/view?usp=drive_link)
 
-I am a highly motivated Software Programmer and a student at [Navgurukul](https://navgurukul.org/). My expertise spans across various programming languages and frameworks, including C, HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, and MySQL.
+I am a highly motivated Software Programmering and a student at [Navgurukul](https://navgurukul.org/). My expertise spans across various programming languages and frameworks, including C, HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, and MySQL.
 
 ## 🚀 About Me
 
@@ -15,7 +15,7 @@ I am a highly motivated Software Programmer and a student at [Navgurukul](https:
 - **Languages**: C, HTML, CSS, JavaScript
 - **Frameworks**: React.js, Node.js, Express.js
 - **Databases**: MongoDB, MySQL
-- **Other Skills**: Problem-solving, Leadership, Time Management
+- **Other Skills**: Problem-solving,Logical thinking
 
 ## 📈 GitHub Stats
 
@@ -23,8 +23,8 @@ I am a highly motivated Software Programmer and a student at [Navgurukul](https:
 
 ## 📫 Get in Touch
 
-- **Email**: [shivam.mishra@example.com](mailto:shivam.mishra@example.com)
-- **LinkedIn**: [Shivam Mishra](https://www.linkedin.com/in/shivam-mishra)
+- **Email**: [shivammishra0381@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/shivam-mishra0/)
 
 ## 🌟 Achievements
 
