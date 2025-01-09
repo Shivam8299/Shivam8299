@@ -1,5 +1,7 @@
 # Hi there 👋, I'm Shivam Mishra!
 
+
+
 I am a highly motivated Software Programmering and a student at [Navgurukul](https://navgurukul.org/). My expertise spans across various programming languages and frameworks, including C, HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, and MySQL.
 
 ## 🚀 About Me
@@ -14,10 +16,6 @@ I am a highly motivated Software Programmering and a student at [Navgurukul](htt
 - **Frameworks**: React.js, Node.js, Express.js
 - **Databases**: MongoDB, MySQL
 - **Other Skills**: Problem-solving,Logical thinking
-
-## 📈 GitHub Stats
-
-![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivam8299&show_icons=true&theme=radical)
 
 ## 📫 Get in Touch
 
