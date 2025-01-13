@@ -27,11 +27,6 @@ I am a highly motivated Software Programmering and a student at [Navgurukul](htt
 - Consistently ranked in Codechef contests.
 - Successfully completed multiple projects at Navgurukul.
 
-## 🤝 Let's Connect!
-
-Feel free to reach out to me for any collaboration or opportunities. I'm always open to discussing new projects, creative ideas, or how I can help your company grow.
-
----
 
 Thank you for visiting my profile! Have a great day! 😊
 
