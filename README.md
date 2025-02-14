@@ -15,7 +15,7 @@ I am a highly motivated Software Programmering and a student at [Navgurukul](htt
 - **Languages**: C, HTML, CSS, JavaScript
 - **Frameworks**: React.js, Node.js, Express.js
 - **Databases**: MongoDB, MySQL
-- **Other Skills**: Problem-solving,Logical thinking
+- **Other Skills**: Problem-solving, Logical thinking
 
 ## 📫 Get in Touch
 
